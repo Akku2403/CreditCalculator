@@ -1,3 +1,7 @@
+# Run this command in cli:
+# & "C:/Program Files/Python38/python.exe" e:/PythonLearning/CreditCalculatorFinal.py --type annuity  --interest 9.8  --principal 1000000 --periods 8
+
+
 import math
 import argparse
 
